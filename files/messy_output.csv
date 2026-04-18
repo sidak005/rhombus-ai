@@ -1,0 +1,11 @@
+id,name,email,age,country,salary
+1,David Smith,david@gmail.com,28,Australia,55000
+2,Alex Doe,alex.doe@yahoo.com,35.5,United States of America,72000
+3,Bob Johnson,bob@,45,Canada,
+4,Alice Wang,alice.wang@gmail.com,31,Australia,68000
+5,Charlie Brown,charlie@brown.com,35.5,United Kingdom,45000
+6,Sidak Singh,,29,United States of America,91000
+7,Eve Torres,eve@torres.com,33,,58000
+8,Frank Castle,frank@castle.com,41,Canada,77000
+9,,ghost@ghost.com,25,Australia,62000
+10,Mo Salah,mo@,52,United States of America,invalid
