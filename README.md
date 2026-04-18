@@ -4,7 +4,7 @@ Automated tests for the [Rhombus AI](https://rhombusai.com) web app
 
 ## Demo Video
 
-[Watch the demo]https://drive.google.com/file/d/1wCxIG27EWiyd5FX_zzopA3hDZ5ck_omV/view?usp=sharing
+[Watch the demo]https://youtu.be/aj9YDR78BZk
 
 ## Setup
 
